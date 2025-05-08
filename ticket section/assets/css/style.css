@@ -24,6 +24,7 @@
 	justify-content: center;  /* horizontal centering */
 	align-items: center;      /* vertical centering */
 	min-height: 100vh;        /* make it fill the entire height of the viewport */
+	overflow: auto;
 }
 *{
     padding: 0;
